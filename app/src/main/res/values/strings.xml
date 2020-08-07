@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Klub Liga 1</string>
+    <string name="klub_name">Nama Klub</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="m_aji_ma_ruf_saputro">M. Aji Ma\'ruf Saputro</string>
+    <string name="majimarufs_gmail_com">majimarufs@gmail.com</string>
+    <string name="didirikan">Didirikan</string>
+    <string name="pelatih">Pelatih</string>
+    <string name="basis_klub">Basis Klub</string>
+    <string name="stadion">Stadion</string>
+</resources>
